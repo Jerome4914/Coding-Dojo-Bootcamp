@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+    background-color: chartreuse;
+    font-size: large;
+    text-align: center;
+}
+ul{
+    color:red;
+    background-color:black;
+    font-size: large;
+    list-style-position: inside;
+
+}
+li{
+    text-align:center;
+}
